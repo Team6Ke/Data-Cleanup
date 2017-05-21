@@ -238,7 +238,7 @@ write.csv(df, "clean_data.csv")
 
 # Conclusion
 
-The results of data cleaning tasks is a "cleaned" data set that hasn't:
+The results of data cleaning tasks is a "cleaned" data set that doesnt have;
 
 - missing values for "Area" feature;
 
