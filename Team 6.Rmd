@@ -1,5 +1,5 @@
 ---
-title: "Data cleanup tasks"
+title: "Github/Data cleanup tasks"
 author: "Team 6"
 date: '`r  Sys.Date()`'
 output:
